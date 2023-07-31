@@ -3,6 +3,8 @@
 The primary project of this quarter has been the two player obstacle game, which requires players to work together by
 standing on different color buttons to reveal paths, move elevators, and use portals in order to get to the end. 
 
+The repository does not include the assets for the ROBLOX game itself, such as interfaces, parts, etc. They cannot be easily exported and viewed independently from the ROBLOX studio platform. It also doesn't include any test scripts that I wrote in order to solidify my understanding of the various topics I covered this quarter. 
+
 The OOP test code is for when I wanted to learn Object Oriented Programming in LUA.
 I made a round-based match system, complete with a match-begin interface.
 
