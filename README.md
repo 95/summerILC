@@ -1,4 +1,4 @@
-# summerILC
+# 2023 Summer ILC: LUA Game Development (6CR)
 
 The primary project of this quarter has been the two player obstacle game, which requires players to work together by
 standing on different color buttons to reveal paths, move elevators, and use portals in order to get to the end. 
