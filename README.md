@@ -10,4 +10,12 @@ This has been a fulfilling quarter for me as a programmer. Game development allo
 organizing my code in an entirely different way, and helped me develop skills such as modular thinking and 
 improved my object-oriented-programming skills. I spent a lot of time throughout this quarter working on these games, and I will continue to do so in the future. I enjoyed my time a lot, and I hope that this can be reflected in the finished product. The game is not published to the website yet, as I have a few more things I'd like to add, but all in all, it is a completely functional game with more than 18 unique stages with different functionality.
 
+I also learned a bit about level design within the realm of ROBLOX, and had to get comfortable with the ROBLOX studio interface. This was time consuming, but not exceedingly difficult.
+
+My primary sources of information have been:
+https://devforum.roblox.com/ (an incredibly kind and helpful forum for anyone who wants to pursue LUA game development)
+https://create.roblox.com/docs (sometimes confusing, but generally helpful for more broader libraries)
+https://www.youtube.com/@GnomeCode (wonderful for datastores, pathfinding, and raycasting information)
+
+Thank you for allowing me to do this. It was wonderful and I learned a lot. More than I can write down here.
 Ahman
