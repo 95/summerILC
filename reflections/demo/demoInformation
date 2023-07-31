@@ -1,0 +1,4 @@
+Each demo video includes a video of me testing an individual function that I'd like to showcase.
+The first is the elevator, which uses the ROBLOX tweening service to broadcast part movement across the entire server.
+The second is the portals demo, where I used a trick with attribute manipulation to add a "debounce" and cooldown so people wouldn't teleport back and forth.
+The third is of the timer and spinner, in which the "spinner" is locally moving to reduce lag, and the timer works as intended with a GUI part representing how much time is left.
